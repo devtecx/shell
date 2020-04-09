@@ -1,2 +1,2 @@
 
-sudo dnf install -y mc git filezilla gstreamer1 snapd php
+sudo dnf install -y mc git php pinta snapd filezilla
