@@ -1,2 +1,2 @@
 
-sudo dnf install -y mc git php pinta snapd filezilla
+sudo dnf install -y mc git php pinta filezilla
