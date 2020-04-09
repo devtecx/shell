@@ -1,3 +1,4 @@
+export EDITOR='nano'
 alias ai="sudo apt install "
 alias pa="php artisan "
 alias pi="pip install "
