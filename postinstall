@@ -1,0 +1,2 @@
+
+sudo dnf install -y mc git filezilla gstreamer1 snapd php
