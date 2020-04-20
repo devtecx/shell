@@ -1,0 +1,2 @@
+Preferences: Configure Runtime Arguments command
+ "disable-hardware-acceleration": true.
